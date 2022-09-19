@@ -1,6 +1,8 @@
 - Welcome aboard,@videxrealone's spacial airship
-- ICT Student
-- Future CyberSecurity Engineer
+- ICT, Network Security Student
+- Capture The Flag Player
+- Programmer
+
 - 📫 How to reach me ...
 
 <!---
