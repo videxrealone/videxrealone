@@ -1,5 +1,5 @@
-- root@videxrealone:~#
-- |---$whoami
+- root@videxrealone:~# whoami
+
 - ICT, Network Security Student ✨
 - Capture The Flag Player ✨ 
 - Founder @Emp0wRED ✨
