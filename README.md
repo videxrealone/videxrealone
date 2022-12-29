@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=text=About%20Me&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 <h1 align="center">Hi 👋, I'm videxrealone</h1>
 <h3 align="center">✨ ICT, Network Security Student ✨ - Capture The Flag Player ✨ - Founder @Emp0wRED ✨ - Programmer ✨ - Editor ✨ - Graphic Designer ✨</h3>
 
