@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm videxrealone</h1>
-<h3 align="center">ICT, Network Security Student ✨ - Capture The Flag Player ✨ - Founder @Emp0wRED ✨ - Programmer ✨ - Editor ✨ - Graphic Designer ✨</h3>
+<h3 align="center">✨ ICT, Network Security Student ✨ - Capture The Flag Player ✨ - Founder @Emp0wRED ✨ - Programmer ✨ - Editor ✨ - Graphic Designer ✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=videxrealone&label=Profile%20views&color=0e75b6&style=flat" alt="videxrealone" /> </p>
 
